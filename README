@@ -30,6 +30,16 @@ $ ./run.sh mcf
 ```
 
 
+History
+=======
+
+This is a fork of the
+[spec_on_ubuntu_xenial](https://github.com/sjp38/spec_on_ubuntu_xenial), which
+was made to support only Ubuntu Xenial (16.04).  Yunjae has extended it to
+additionally support Bionic (18.04), ad as a result this fork has made.  Note
+that the previous version (spec_on_ubuntu_xenial) is deprecated.
+
+
 Author
 ======
 
