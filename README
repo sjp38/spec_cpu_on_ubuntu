@@ -1,5 +1,5 @@
-This is a toolbox for SPEC CPU 2006 v1.1 benchmark installation and execution
-on Ubuntu Xenial (16.04) and Bionic (18.04).
+This is a toolbox for SPEC CPU benchmark installation and execution on Ubuntu.
+Currently, it supports Xenial (16.04) and Bionic (18.04).
 
 
 Quick Tutorial
