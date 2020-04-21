@@ -1,9 +1,14 @@
 This is a toolbox for SPEC CPU benchmark installation and execution on Ubuntu.
 Currently, it supports Xenial (16.04) and Bionic (18.04).
 
+Note that you should get the SPEC CPU 2006 iso file by yourself.
+
 
 Quick Tutorial
 ==============
+
+First, place the SPEC CPU iso file in this directory with file name
+SPEC_CPU2006v1.1.iso.
 
 Extract source code from the iso file.
 ```
